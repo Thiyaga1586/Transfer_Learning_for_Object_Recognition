@@ -60,6 +60,12 @@ The objective is to analyze performance trade-offs between lightweight and deep 
 
 ---
 
+## Accuracy Comparison Plot
+
+![Accuracy Comparison](Images/accuracy_comparison_graph.png)
+
+---
+
 ## Analysis
 
 - Transfer learning is highly effective for small datasets.  
